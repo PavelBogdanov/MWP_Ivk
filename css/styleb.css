@@ -50,6 +50,7 @@ ul.my_navbar {
 	position: fixed;
 	top: 3.5%;
 	z-index: 10;
+	min-width: 40px;s
 }
 .my_content{
 	background: url(../images/content_back.png);

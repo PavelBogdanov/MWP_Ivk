@@ -40,15 +40,16 @@ ul.my_navbar {
 .nav > li > a {
 	padding: 15px 0;
 }
-.my_logo{
+/*.my_logo{
 	position: absolute;
 	top: 40px;
 	z-index: 10;
-}
+}*/
 .logo-position{
 	margin-left: 20px;
-	position: absolute;
-	top: 50%;
+	position: fixed;
+	top: 3.5%;
+	z-index: 10;
 }
 .my_content{
 	background: url(../images/content_back.png);
